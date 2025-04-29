@@ -1,0 +1,20 @@
+# Requirements for ID Card Detection project
+# Python 3.10
+
+# Core dependencies
+ultralytics>=8.0.0
+flask>=2.2.3
+flask-cors>=3.0.10
+pillow>=9.4.0
+
+# Additional dependencies that might be required
+numpy>=1.23.5
+opencv-python>=4.7.0
+pyyaml>=6.0
+matplotlib>=3.7.1
+pandas>=1.5.3
+seaborn>=0.12.2
+
+# For GPU support (if using CUDA)
+# torch>=2.0.0
+# torchvision>=0.15.0 
